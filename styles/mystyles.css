@@ -1,0 +1,48 @@
+/* Brenna Black - 04/08/22 */
+
+/*new styles used on index page*/
+body{
+    background-color:rgb(240, 236, 231)
+}
+
+.textcolor{
+    color: #D4A59A
+}
+
+.newfont{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.backtotop{
+    text-decoration: underline;
+    color:#D4A59A;
+}
+
+/*additional styles used on aboutme page*/
+.bold{
+    font-weight: bold;
+    color:#D4A59A;
+    font-size: 26px;
+}
+
+.twopics{
+    font-weight: bold;
+    color:#D4A59A;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.boringbold{
+    font-weight: bold;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
